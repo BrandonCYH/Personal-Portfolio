@@ -1,0 +1,16 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Code Walktrough",
+  "steps": [
+    {
+      "file": "src/components/Home.jsx",
+      "description": "Step 2: Show UseEffect",
+      "line": 17
+    },
+    {
+      "file": "src/components/Home.jsx",
+      "description": " Step 1: Highlight first 13 lines",
+      "line": 1
+    }
+  ]
+}

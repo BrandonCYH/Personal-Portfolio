@@ -1,5 +1,3 @@
-// File: src/components/Experience.jsx
-import React from "react";
 import { motion } from "framer-motion";
 import { Calendar, MapPin, Briefcase } from "lucide-react";
 
