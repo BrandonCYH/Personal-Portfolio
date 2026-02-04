@@ -88,7 +88,7 @@ export default function About({ isDarkMode }) {
               isDarkMode ? "text-gray-400" : "text-gray-600"
             }`}
           >
-            Passionate Software Engineering student with expertise in full-stack
+            Passionate Software Engineer with expertise in full-stack
             development, cloud technologies, and creating exceptional digital
             experiences
           </p>
@@ -120,7 +120,7 @@ export default function About({ isDarkMode }) {
                 <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-black/50 to-transparent"></div>
                 {/* Profile Badge */}
                 <div className="absolute bottom-4 left-4 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-full text-sm font-medium">
-                  Software Developer
+                  Software Engineer
                 </div>
               </div>
 
@@ -238,7 +238,7 @@ export default function About({ isDarkMode }) {
                     isDarkMode ? "text-gray-300" : "text-gray-600"
                   }`}
                 >
-                  As a passionate Software Engineering student, I've dedicated
+                  As a passionate Software Engineer, I've dedicated
                   myself to mastering both frontend and backend technologies. My
                   journey began with simple HTML/CSS websites and has evolved
                   into building complex, scalable applications using modern
