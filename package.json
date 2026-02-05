@@ -9,8 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "vercel --prod",
-    "homepage": "https://github.com/BrandonCYH/Personal-Portfolio.git"
+    "deploy": "vercel --prod"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
@@ -36,6 +35,5 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.14",
     "vite": "^7.1.7"
-  },
-  "homepage": "https://github.com/BrandonCYH/personal-portfolio.git"
+  }
 }
